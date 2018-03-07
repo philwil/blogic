@@ -1,4 +1,4 @@
 # blogic
 Blogic
 
-Trying out a logig simulator
+Trying out a logic simulator
